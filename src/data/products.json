@@ -1,11 +1,18 @@
 [
-	{ "pid": "core",  "order": 1, "image": "images/products/core.png",  "name": "Millennium Blades" },
-	{ "pid": "exp1",  "order": 2, "image": "images/products/exp1.png",  "name": "Set Rotation" },
-	{ "pid": "mini1", "order": 3, "image": "images/products/mini1.png", "name": "Mini-Expansion 1: Crossover" },
-	{ "pid": "mini2", "order": 4, "image": "images/products/mini2.png", "name": "Mini-Expansion 2: Sponsors" },
-	{ "pid": "mini3", "order": 5, "image": "images/products/mini3.png", "name": "Mini-Expansion 3: Fusion Chaos" },
-	{ "pid": "mini4", "order": 6, "image": "images/products/mini4.png", "name": "Mini-Expansion 4: Final Bosses" },
-	{ "pid": "mini5", "order": 7, "image": "images/products/mini5.png", "name": "Mini-Expansion 5: Futures" },
-	{ "pid": "mini6", "order": 8, "image": "images/products/mini6.png", "name": "Mini-Expansion 6: Professionals" },
-	{ "pid": "bgg1", "order": 9, "image": "images/products/mini7.png", "name": "BoardGameGeek Mini-Expansion" }
+	{ "pid": "core",   "order": 1,  "image": "images/products/core.png",   "name": "Millennium Blades" },
+	{ "pid": "exp1",   "order": 2,  "image": "images/products/exp1.png",   "name": "Set Rotation" },
+	{ "pid": "exp2",   "order": 3,  "image": "images/products/exp2.png",   "name": "Collusion" },
+	{ "pid": "mini1",  "order": 4,  "image": "images/products/mini1.png",  "name": "Mini-Expansion 1: Crossover" },
+	{ "pid": "mini2",  "order": 5,  "image": "images/products/mini2.png",  "name": "Mini-Expansion 2: Sponsors" },
+	{ "pid": "mini3",  "order": 6,  "image": "images/products/mini3.png",  "name": "Mini-Expansion 3: Fusion Chaos" },
+	{ "pid": "mini4",  "order": 7,  "image": "images/products/mini4.png",  "name": "Mini-Expansion 4: Final Bosses" },
+	{ "pid": "mini5",  "order": 8,  "image": "images/products/mini5.png",  "name": "Mini-Expansion 5: Futures" },
+	{ "pid": "mini6",  "order": 9,  "image": "images/products/mini6.png",  "name": "Mini-Expansion 6: Professionals" },
+	{ "pid": "mini7",  "order": 10, "image": "images/products/mini7.png",  "name": "Mini-Expansion 7: Crossovers 2" },
+	{ "pid": "mini8",  "order": 11, "image": "images/products/mini8.png",  "name": "Mini-Expansion 8: Crossovers 3" },
+	{ "pid": "mini9",  "order": 12, "image": "images/products/mini9.png",  "name": "Mini-Expansion 9: Co-Op Bosses" },
+	{ "pid": "mini10", "order": 13, "image": "images/products/mini10.png", "name": "Mini-Expansion 10: Extra Characters" },
+	{ "pid": "mini11", "order": 14, "image": "images/products/mini11.png", "name": "Mini-Expansion 11: Extra Sets" },
+	{ "pid": "mini12", "order": 15, "image": "images/products/mini12.png", "name": "Mini-Expansion 12: Finaler Bosses" },
+	{ "pid": "bgg1",   "order": 16, "image": "images/products/mini7.png",  "name": "BoardGameGeek Mini-Expansion" }
 ]
